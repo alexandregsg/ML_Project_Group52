@@ -16,6 +16,9 @@ ML_Project_Group52/
 |-- 02_Data_Preprocessing_g52.ipynb                  # Data preprocessing and saving processed files
 |-- 03_Encoding_Scaling_Feature_Selection_g52.ipynb  # Encoding, scaling, and feature selection
 |-- 04_Model_and_Assessment_g52.ipynb                # Model training, evaluation, and assessment
+|-- 05_Model_Deployment
+   |-- app.py
+   |-- trained_pipeline.pkf
 |-- README.md                                        # Project overview and instructions
 |-- test_data.csv.zip                                # Compressed test dataset
 |-- train_data.csv.zip                               # Compressed train dataset
