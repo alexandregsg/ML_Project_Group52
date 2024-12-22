@@ -1,0 +1,1 @@
+This folder was created to store the datasets after preprocessing and cleaning. The files are used as input for the encoding, scaling and feature selection notebook.
