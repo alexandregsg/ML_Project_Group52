@@ -1,0 +1,1 @@
+This folder was created to store the outcoming files from feature selection, to use in the modeling notebook.
