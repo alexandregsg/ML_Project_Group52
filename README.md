@@ -18,7 +18,7 @@ ML_Project_Group52/
 |-- 04_Model_and_Assessment_g52.ipynb                # Model training, evaluation, and assessment
 |-- 05_Model_Deployment                              # Model deployment using streamlit app
    |-- app.py
-   |-- trained_pipeline.pkf
+   |-- trained_pipeline.pkl
 |-- README.md                                        # Project overview and instructions
 |-- test_data.csv.zip                                # Compressed test dataset
 |-- train_data.csv.zip                               # Compressed train dataset
