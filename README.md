@@ -10,15 +10,15 @@ This project explores machine learning techniques to predict compensation benefi
 ```
 ML_Project_Group52/
 |
-|-- model_input_files/            # Selected feature datasets for modeling
-|-- preprocessed_files/           # Preprocessed datasets saved from Notebook 02
-|-- 01_EDA_g52.ipynb              # Exploratory Data Analysis (EDA)
-|-- 02_Data_Preprocessing_g52.ipynb # Data preprocessing and saving processed files
-|-- 03_Encoding_Scaling_Feature_Selection_g52.ipynb # Encoding, scaling, and feature selection
-|-- 04_Model_and_Assessment_g52.ipynb # Model training, evaluation, and assessment
-|-- README.md                     # Project overview and instructions
-|-- test_data.csv.zip             # Compressed test dataset
-|-- train_data.csv.zip            # Compressed train dataset
+|-- model_input_files/                               # Selected feature datasets for modeling
+|-- preprocessed_files/                              # Preprocessed datasets saved from Notebook 02
+|-- 01_EDA_g52.ipynb                                 # Exploratory Data Analysis (EDA)
+|-- 02_Data_Preprocessing_g52.ipynb                  # Data preprocessing and saving processed files
+|-- 03_Encoding_Scaling_Feature_Selection_g52.ipynb  # Encoding, scaling, and feature selection
+|-- 04_Model_and_Assessment_g52.ipynb                # Model training, evaluation, and assessment
+|-- README.md                                        # Project overview and instructions
+|-- test_data.csv.zip                                # Compressed test dataset
+|-- train_data.csv.zip                               # Compressed train dataset
 ```
 
 ## Workflow
