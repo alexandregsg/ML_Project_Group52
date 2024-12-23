@@ -60,7 +60,7 @@ ML_Project_Group52/
 ### Workflow
 1. **Model Training and Serialization**:
    - A machine learning pipeline was trained and saved as `trained_pipeline.pkl` using `pickle`.
-   - The pipeline includes all necessary preprocessing steps and the a sample train model, that later can be updated to a production model.
+   - The pipeline includes all necessary preprocessing steps and a sample trained model, that later can be updated to a production model.
 
 2. **Streamlit App (`app.py`)**:
    - Loads the `trained_pipeline.pkl` file at runtime.
