@@ -55,7 +55,7 @@ ML_Project_Group52/
 
 - **`trained_pipeline.pkl`**: 
   - A serialized file containing the trained machine learning pipeline (preprocessing steps + model).
-  - Created during the model training phase and used here to ensure consistency in predictions.
+  - Created during the model training phase using our original pipeline, but with a subset of data and a random forest model, to simulate putting the model into production.
 
 ### Workflow
 1. **Model Training and Serialization**:
