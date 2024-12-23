@@ -51,7 +51,7 @@ ML_Project_Group52/
   - The main Python script that serves as the Streamlit application.
   - Provides an interactive UI to users for inputting data and visualizing model predictions.
   - Loads the trained machine learning pipeline and uses it to generate predictions.
-  - Includes functionality for displaying results, visualizations, or additional insights derived from the model.
+  - Includes functionality for displaying results or visualizations derived from the model.
 
 - **`trained_pipeline.pkl`**: 
   - A serialized file containing the trained machine learning pipeline (preprocessing steps + model).
@@ -59,8 +59,8 @@ ML_Project_Group52/
 
 ### Workflow
 1. **Model Training and Serialization**:
-   - A machine learning pipeline was trained and saved as `trained_pipeline.pkl` using `joblib` or `pickle`.
-   - The pipeline includes all necessary preprocessing steps and the trained model.
+   - A machine learning pipeline was trained and saved as `trained_pipeline.pkl` using `pickle`.
+   - The pipeline includes all necessary preprocessing steps and the a sample train model, that later can be updated to a production model.
 
 2. **Streamlit App (`app.py`)**:
    - Loads the `trained_pipeline.pkl` file at runtime.
