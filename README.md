@@ -92,6 +92,7 @@ ML_Project_Group52/
    ```
 3. Run the notebooks in sequence (01 to 04).
 4. Analyze outputs and visualizations in the results folders.
+5. See what putting the model into production is by running app.py in the browser or going to this link: https://ml-project-deployment-g52.streamlit.app/
 
 ## Dependencies
 - Python 3.8+
