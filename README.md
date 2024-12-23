@@ -64,7 +64,7 @@ ML_Project_Group52/
 
 2. **Streamlit App (`app.py`)**:
    - Loads the `trained_pipeline.pkl` file at runtime.
-   - Accepts user inputs (e.g., via text boxes, sliders, or file uploads).
+   - Accepts user inputs (via text boxes).
    - Processes the inputs using the loaded pipeline.
    - Displays predictions and any additional analysis in an easy-to-use web interface.
 
